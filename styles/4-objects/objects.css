@@ -22,6 +22,7 @@
   --padding: 16px;
   padding-inline: var(--padding);
   max-width: var(--width-7xl);
+  height: 268px;
   margin-inline: auto;
 }
 

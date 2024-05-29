@@ -26,7 +26,7 @@
 /* Molecules */
 @import url(5-components/navigation.css);
 @import url(5-components/home.css);
-/* @import url(5-components/header.css); */
+@import url(5-components/header.css);
 
 /* Organisms */
 

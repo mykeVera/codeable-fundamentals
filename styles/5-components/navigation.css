@@ -11,7 +11,7 @@
 .navigation ul {
   list-style: none;
   display: flex;
-  gap: 16px;
+  gap: var(--spacing-4);
 }
 
 .navigation a {
