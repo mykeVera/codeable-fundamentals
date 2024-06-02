@@ -32,3 +32,8 @@
 
 /* 6. Utilities */
 @import url(6-utilities/utilities.css);
+
+/* 6. Pages */
+@import url(7-pages/custom.css);
+
+

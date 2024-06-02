@@ -9,14 +9,14 @@
   --spacing-3: calc(var(--space-unit) * 3);
   --spacing-3_5: calc(var(--space-unit) * 3.5);
   --spacing-4: calc(var(--space-unit) * 4);
-  --spacing-5: calc(var(--space-unit) * 5);
-  --spacing-6: calc(var(--space-unit) * 6);
+  --spacing-5: calc(var(--space-unit) * 5); /* 20px */
+  --spacing-6: calc(var(--space-unit) * 6); /* 24px */
   --spacing-7: calc(var(--space-unit) * 7);
-  --spacing-8: calc(var(--space-unit) * 8);
+  --spacing-8: calc(var(--space-unit) * 8); /* 32px */
   --spacing-9: calc(var(--space-unit) * 9);
   --spacing-10: calc(var(--space-unit) * 10);
   --spacing-11: calc(var(--space-unit) * 11);
-  --spacing-12: calc(var(--space-unit) * 12);
+  --spacing-12: calc(var(--space-unit) * 12); /* 48px */
   --spacing-14: calc(var(--space-unit) * 14);
   --spacing-16: calc(var(--space-unit) * 16);
   --spacing-20: calc(var(--space-unit) * 20);
